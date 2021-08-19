@@ -1,0 +1,16 @@
+.flexContainer{
+    display: flex;
+    justify-content: space-around;
+}
+
+.textCenter{
+    text-align: center;
+}
+.Winner{
+    background: linear-gradient(95deg, rgba(93, 206, 63, 0.64), rgba(53, 231, 69, 0.76));
+    padding: 25px 0;
+}
+.Looser{
+    background: linear-gradient(95deg, rgba(206, 63, 104, 0.64), rgba(231, 53, 68, 0.76));
+    padding: 25px 0;
+}
